@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **C++**
 
-- 👨‍💻 All of my projects are available at [currently working on it](currently working on it)
+- 👨‍💻 All of my projects are available at Github
 
 - 💬 Ask me about **Web Developing**
 
