@@ -619,7 +619,7 @@ def build_footer():
     W, H = 1200, 330
     l1, l2a, l2b = "LET'S BUILD", 'SOMETHING', 'LIMITLESS.'
     used_U = l1 + l2a + l2b + 'RAHAT'
-    used_M = 'rahatofc912@gmail.com  ·  redwanrahat07.vercel.app  ·  Dhaka, GMT+6 OPEN FOR PROJECTS'
+    used_M = 'rahatofc912@gmail.com  ·  exentas.com  ·  Dhaka, GMT+6 OPEN FOR PROJECTS'
     fs = 64
     seg_w = measure('U', 'RAHAT', 34, -0.04) + 56
     reps = int(1500 / seg_w) + 3
@@ -641,7 +641,7 @@ def build_footer():
             f'<g transform="rotate(-2.5 600 236)"><rect x="-40" y="206" width="1300" height="60" fill="url(#t)"/><g class="mq">{items}</g></g>'
             f'<circle class="dot" cx="48" cy="300" r="5" fill="#4ade80"/>'
             f'<text x="62" y="304" font-family="M" font-size="12" letter-spacing="1.5" fill="#fff">OPEN FOR PROJECTS</text>'
-            f'<text x="{W - 40}" y="304" text-anchor="end" font-family="M" font-size="12" fill="{ICE}">rahatofc912@gmail.com  ·  redwanrahat07.vercel.app  ·  Dhaka, GMT+6</text></g>')
+            f'<text x="{W - 40}" y="304" text-anchor="end" font-family="M" font-size="12" fill="{ICE}">rahatofc912@gmail.com  ·  exentas.com  ·  Dhaka, GMT+6</text></g>')
     write('footer.svg', svg_doc(W, H, css, body, "Let's build something limitless"))
 
 

@@ -1,12 +1,12 @@
 <div align="center">
 
-<a href="https://redwanrahat07.vercel.app/">
+<a href="https://exentas.com/">
   <img src="assets/hero.svg" width="100%" alt="Redwan Rahat — a team of cursors builds my hero, live" />
 </a>
 
 <br/><br/>
 
-<a href="https://redwanrahat07.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-redwanrahat07.vercel.app-1A3DFF?style=for-the-badge&labelColor=070B1F" alt="Portfolio" /></a>
+<a href="https://exentas.com/"><img src="https://img.shields.io/badge/Portfolio-exentas.com-1A3DFF?style=for-the-badge&labelColor=070B1F" alt="Portfolio" /></a>
 <a href="mailto:rahatofc912@gmail.com"><img src="https://img.shields.io/badge/Email-rahatofc912@gmail.com-2F6BFF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=070B1F" alt="Email" /></a>
 <br/>
 <a href="https://www.instagram.com/exentas07/"><img src="https://img.shields.io/badge/Instagram-exentas07-1A3DFF?style=for-the-badge&logo=instagram&logoColor=white&labelColor=070B1F" alt="Instagram" /></a>
