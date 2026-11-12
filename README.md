@@ -9,6 +9,7 @@
 <a href="https://exentas.com/"><img src="https://img.shields.io/badge/Portfolio-exentas.com-1A3DFF?style=for-the-badge&labelColor=070B1F" alt="Portfolio" /></a>
 <a href="mailto:rahatofc912@gmail.com"><img src="https://img.shields.io/badge/Email-rahatofc912@gmail.com-2F6BFF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=070B1F" alt="Email" /></a>
 <br/>
+<a href="https://www.linkedin.com/in/redwanrahat/"><img src="https://img.shields.io/badge/LinkedIn-redwanrahat-1A3DFF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=070B1F" alt="LinkedIn" /></a>
 <a href="https://www.instagram.com/exentas07/"><img src="https://img.shields.io/badge/Instagram-exentas07-1A3DFF?style=for-the-badge&logo=instagram&logoColor=white&labelColor=070B1F" alt="Instagram" /></a>
 <a href="https://www.facebook.com/profile.php?id=61583811689739"><img src="https://img.shields.io/badge/Facebook-Redwan_Rahat-1A3DFF?style=for-the-badge&logo=facebook&logoColor=white&labelColor=070B1F" alt="Facebook" /></a>
 <a href="https://open.spotify.com/user/316lijpwcpmmchv4moe2v5chwbsi"><img src="https://img.shields.io/badge/Spotify-on_repeat-1A3DFF?style=for-the-badge&logo=spotify&logoColor=white&labelColor=070B1F" alt="Spotify" /></a>
@@ -20,7 +21,7 @@
   <img src="assets/title-about.svg" width="100%" alt="(01) Who I am" />
 </picture>
 
-<img src="assets/about.svg" width="100%" alt="const redwan = { role: 'Full-stack developer', based: 'Dhaka, Bangladesh', building: ['SolasArc', 'Blusshy'] } — CEO at SolasArc, Founder of Blusshy, Senior SEO Executive at Trinet Marketing" />
+<img src="assets/about.svg" width="100%" alt="const redwan = { role: 'Full-stack developer', based: 'Dhaka, Bangladesh', building: ['SolasArc', 'Blusshy'] } — CEO at SolasArc, Founder of Blusshy" />
 
 <br/><br/>
 
